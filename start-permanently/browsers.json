@@ -3,7 +3,8 @@
     "default": "74.0",
     "versions": {
       "74.0": {
-        "port": "4444"
+        "port": "4444",
+        "image": "vnc:chrome_74.0"
       }
     }
   }
